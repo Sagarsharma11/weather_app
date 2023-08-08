@@ -1,0 +1,11 @@
+.geo-location{
+    height: 100px;
+}
+._pointer{
+    cursor: pointer;
+}
+
+/* Login css */
+.full-screen-height {
+    height: 100vh;
+}
